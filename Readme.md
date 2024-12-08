@@ -2,6 +2,7 @@
 
 * Студент: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
 * Наставник: `Chat GPT`.
+* Сайт: [Проект "Седона"](https://vitaly-x.github.io/2108789-sedona-40)
 
 ---
 
